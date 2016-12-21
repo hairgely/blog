@@ -1,6 +1,6 @@
-title:            Notepad
-description:      "Blogging is fun"
-logo:             logo.png
+title:            hairgely
+description:      "hairgely"
+logo:             share-972389_960_720.png
 disqus_shortname: hmfaysal
 share:            true
 dropcap:			true
@@ -11,21 +11,21 @@ url:        	  /blog
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           hairgely
+  avatar:         share-972389_960_720.png
+  email:          hairgely@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Awesome Dude, Awesome Life
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal      
-  instagram:      hmfaysal
+  twitter:        hairgely
+  facebook:       hairgely
+  github:         hairgely      
+  instagram:      
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    #https://plus.google.com/u/0/102602916593522619858
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   #UA-39365944-7
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'https://hairgely.github.io/blog/'
+  relativeLinks: 'https://hairgely.github.io/blog/links.jsonp'
   media: 'images'
   metadata:
     _posts:
