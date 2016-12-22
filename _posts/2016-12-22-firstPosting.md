@@ -38,12 +38,12 @@ featured: false
 
 그리고 혼자서 개발을 진행한 프로젝트도 꽤 있어서 코딩테스트는 자신이 있었는데 떨어졌네요. ㅎㅎ
 
-회사에서 혼자 담당해서 솔루션까지 만든 대표 프로젝트 
+##회사에서 혼자 담당해서 솔루션까지 만든 대표 프로젝트
+ 
 1. 검색 솔루션 (2013)
-2. 문서표절검사 솔루션 (2013)
-3. 상품 추천 솔루션 (2014)
-등등
- Apache Lucene, Apache Mahout, Apache cassandra, Apache Tika, Redis, Spring Batch 등 사용해서 
+2. 문서표절검사 솔루션 (2013)3. 상품 추천 솔루션 (2014)
+
+Apache Lucene, Apache Mahout, Apache cassandra, Apache Tika, Redis, Spring Batch 등 사용해서 
  
  설계만 공동으로 진행하고, a부터 z까지 모든 코딩을 혼자 해서 완성한 솔루션들입니다. 
  
