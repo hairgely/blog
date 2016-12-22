@@ -10,8 +10,10 @@ imagefeature:
 mathjax: 
 chart: 
 comments: true
-featured: true
+featured: false
 ---
+
+오늘 코딩테스트 불합격 통보를 받았습니다...
 
 얼마전에 아는 사람을 통해 어떤 회사를 소개 받았습니다. 만나서 이것 저것 이야기하고, 코딩테스트를 진행하였습니다. 
 
