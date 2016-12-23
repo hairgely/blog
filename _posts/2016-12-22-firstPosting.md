@@ -3,7 +3,7 @@ layout: post
 title: "코딩테스트 불합격"
 description: 
 headline: 
-modified: 2016-12-23
+modified: 2014-07-23
 category: story
 tags: [story]
 imagefeature: 
