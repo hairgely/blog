@@ -23,6 +23,5 @@ featured: true
     3. git commit -m "initial repository"
     4. git remote add origin <github-url>
     5. git push -u --force origin master
-    
 ## 원본 블로그
 * [조영's lab Dev_[GitHub] 히스토리 삭제하기(초기화하기)](http://balhae79.tistory.com/358/)
