@@ -23,7 +23,7 @@ featured: true
 2. git init
 3. git add . 
 4. git commit -m "initial repository"
-5. git remote add origin <github-url>
+5. git remote add origin <<github-url>>
 6. git push -u --force origin master
 
 ### 원본 블로그
