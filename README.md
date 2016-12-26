@@ -11,4 +11,4 @@
 
 ### reference
 
-- Theme designed using **[OpenTheme](https://github.com/manavsehgal/opentheme/)**
+- Theme designed using **[Notepad](https://github.com/hmfaysal/Notepad/)**
